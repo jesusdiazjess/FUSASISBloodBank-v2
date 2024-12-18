@@ -1,6 +1,6 @@
 # FUSA bloodbank Management System v2.0 - for Humans
 This system has presented during the final exam in the subject: Advance Database System, Integrative Programming + Technologies 2 and System Integration and Architecture 1.
-![FUSA bloodbank Management System v2.0 - for Humans](https://raw.githubusercontent.com/jesusdiazjess/FUSASiAinventory/6600aee2877dfff477283f5e138d8fff86ba3154/LOG%20IN%20Screenshot_22-10-2024_185352_localhost.jpeg) 
+![FUSA bloodbank Management System v2.0 - for Humans](https://github.com/jesusdiazjess/FUSASISBloodBank-v2/blob/main/2.0v_BloodBank-FINALrelease.jpg) 
 ---
 
 ## Introduction
