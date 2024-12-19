@@ -1,5 +1,5 @@
 # FUSA bloodbank Management System v2.0 - for Humans
-This system has presented during the final exam in the subject: Advance Database System, Integrative Programming + Technologies 2 and System Integration and Architecture 1.
+This system has presented during the final exam in the subject: Advance Database System, Integrative Programming + Technologies 2 and System Integration + Architecture 1.
 ![FUSA bloodbank Management System v2.0 - for Humans](https://github.com/jesusdiazjess/FUSASISBloodBank-v2/blob/main/2.0v_BloodBank-FINALrelease.jpg) 
 ---
 
@@ -34,7 +34,7 @@ The system benefits healthcare institutions, administrators, donors, and recipie
 - **Diaz, Jesus D.**  
 - **Rubrica, Lance A.**  
 
-> **Faculty Adviser**: Mr. Jeremiah C. Laman  
+> **Academic Advisor**: Mr. Jeremiah C. Laman  
 > **Submitted**: December 2024  
 
 ---  
