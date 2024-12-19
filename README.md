@@ -34,7 +34,7 @@ The system benefits healthcare institutions, administrators, donors, and recipie
 - **Diaz, Jesus D.**  
 - **Rubrica, Lance A.**  
 
-> **Academic Advisor**: Mr. Jeremiah C. Laman  
+> **Academic Advisor**: Mr. Kim Tarayao and Mr. Jeremiah Laman  
 > **Submitted**: December 2024  
 
 ---  
