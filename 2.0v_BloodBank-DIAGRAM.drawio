@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
+  <diagram name="Page-1" id="VlIqtGdM2LPgZtYKvsg4">
+    <mxGraphModel dx="1690" dy="538" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HRdYmR9VLRg84Kk0U1A5-1" value="0" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=1;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#E178C9;strokeColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="84" y="52" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HRdYmR9VLRg84Kk0U1A5-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;BLOOD BANK&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;MANAGEMENT&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;SYSTEM&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=#B5A4E4;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;shadow=1;" parent="HRdYmR9VLRg84Kk0U1A5-1" vertex="1">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HRdYmR9VLRg84Kk0U1A5-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="HRdYmR9VLRg84Kk0U1A5-5" target="HRdYmR9VLRg84Kk0U1A5-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRdYmR9VLRg84Kk0U1A5-5" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Tahoma&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ADMIN&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#00CC66;shadow=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-234" y="102" width="148" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="HRdYmR9VLRg84Kk0U1A5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="139" y="303" as="targetPoint" />
+            <mxPoint x="139" y="172" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRdYmR9VLRg84Kk0U1A5-13" value="&lt;div&gt;&lt;font face=&quot;Tahoma&quot; color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;DONORS&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#FF3333;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="92" y="304" width="148" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="HRdYmR9VLRg84Kk0U1A5-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="HRdYmR9VLRg84Kk0U1A5-14" target="HRdYmR9VLRg84Kk0U1A5-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRdYmR9VLRg84Kk0U1A5-14" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Tahoma&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;USERS&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;shadow=1;fillColor=#3399FF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="414" y="102" width="148" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="HRdYmR9VLRg84Kk0U1A5-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="HRdYmR9VLRg84Kk0U1A5-2" target="HRdYmR9VLRg84Kk0U1A5-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRdYmR9VLRg84Kk0U1A5-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="244" y="155" as="sourcePoint" />
+            <mxPoint x="414" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRdYmR9VLRg84Kk0U1A5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.689;exitY=-0.014;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="HRdYmR9VLRg84Kk0U1A5-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="193" y="172" as="targetPoint" />
+            <mxPoint x="193" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRdYmR9VLRg84Kk0U1A5-25" value="&lt;div align=&quot;center&quot;&gt;&lt;i&gt;User and Donor Details and&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;i&gt;inventory updates&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-82" y="81" width="166" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="HRdYmR9VLRg84Kk0U1A5-26" value="&lt;div align=&quot;center&quot;&gt;&lt;i&gt;Access/Update User or&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;i&gt;Donor Records&lt;/i&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="259" y="81" width="141" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="HRdYmR9VLRg84Kk0U1A5-27" value="&lt;div align=&quot;center&quot;&gt;&lt;i&gt;Blood Group Information,&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;i&gt;Donor Data&lt;/i&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="260" y="152" width="154" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="HRdYmR9VLRg84Kk0U1A5-28" value="&lt;div align=&quot;center&quot;&gt;&lt;i&gt;Reports, Blood Availability&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;i&gt;Status&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-77" y="152" width="154" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="HRdYmR9VLRg84Kk0U1A5-29" value="&lt;div align=&quot;center&quot;&gt;&lt;i&gt;Submission Confirmation,&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;i&gt;Record Updates&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-6" y="228" width="152" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="HRdYmR9VLRg84Kk0U1A5-30" value="&lt;div align=&quot;center&quot;&gt;&lt;i&gt;Personal Details&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;i&gt;(Name, Email, Gender,&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;i&gt;&amp;nbsp;Blood Group)&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="186" y="221" width="138" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
